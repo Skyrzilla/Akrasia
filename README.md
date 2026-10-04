@@ -1,5 +1,25 @@
 
 # Akrasia
+
+///////////////////////////////////////////////////////////////////////
+# To point - How to Download?
+
+> In this repo, Look for "Releases" 
+> click on the latest release , click on "Akrasia.exe" it must download
+> go to ur downloads folder on PC run exe 
+> !!!! might show u a "windows protected ur pc notification" (ignore it i aint gonna steal ur data i have other things to worry abt, its safe)!!!!
+> click more info >> then run any way...let it finish
+
+>> ur in
+
+> now on top right u see "select folder" ....click it and select a folder u have music on(i keep all my music in 1 folder so idk how to keep multiple folders as sourse)
+> wait till it finishes.....ur good to goo WOLAHH
+>> theres a down arrow mark button in the left collections bar that is to import ur already made windows playlists 
+>> rest figure it out urself :)) (its easy and simple enough the way ive built it)
+
+
+//////////////////////////////////////////////////////////////////////
+# Why-----
 Unlike many people, I still like getting my music through YouTube-to-MP3 downloads, and since most of what I listen to is rock, I've always had a soft spot for that old-school Y2K music aesthetic.
 
 I tried looking for music visualizers that captured that feeling, but nothing quite clicked. Some lacked modern music management, while others just didn't have the visualizer synchronization or the overall feel I was looking for.
@@ -20,7 +40,8 @@ I took inspiration from old home theater setups, 2000s tuner car trunk audio sys
 
 
 
-**As of what it can do**
+# As of what it can do
+
 You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
 
 There's a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. The goal was to make listening feel less repetitive.You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
