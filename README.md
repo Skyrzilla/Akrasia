@@ -10,6 +10,7 @@ AKRASIA is something I originally built for myself, and I intend to keep using i
 
 I took inspiration from old home theater setups, 2000s tuner car trunk audio systems, PSP Music player and the music player software that were on older versions of Windows. I wanted to bring a bit of that era's atmosphere into a modern music player without making it unnecessarily complicated.
 
+**As of what it can do**
 You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
 
 There's a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. The goal was to make listening feel less repetitive.You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
