@@ -2,7 +2,7 @@
 # Akrasia
 
 ///////////////////////////////////////////////////////////////////////
-# To point - How to Download?
+# To the point - How to Download...
 
 1. In this repo, Look for "Releases" 
 2. click on the latest release , click on "Akrasia.exe" it must download
@@ -34,9 +34,9 @@ I took inspiration from old home theater setups, 2000s tuner car trunk audio sys
 
 <img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/01feda87-e9ce-48d5-8e44-473296e3fd1f" />
 
-<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/7456243e-1c34-42b5-a81f-475573b2932d" />
 
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/3e96ee04-ebbe-45a3-a313-f2c513b487b1" />
+
+
 
 
 
@@ -45,8 +45,11 @@ I took inspiration from old home theater setups, 2000s tuner car trunk audio sys
 You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
 
 There's a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. The goal was to make listening feel less repetitive.You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/7456243e-1c34-42b5-a81f-475573b2932d" />
 
 I haven't over-engineered it or tried to pack in every feature imaginable. I built what I wanted and what I personally use most of the time. It might not have everything you want in a music player, and honestly, I couldn't care less, lol.
+
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/3e96ee04-ebbe-45a3-a313-f2c513b487b1" />
 
 Of course, I expect there may be compatibility issues. This isn't exactly AAA software, and you might have to troubleshoot or fix things yourself. It's just my own little weekend project, shared in case someone else enjoys the idea too.
 
