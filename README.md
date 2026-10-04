@@ -4,16 +4,16 @@
 ///////////////////////////////////////////////////////////////////////
 # To point - How to Download?
 
-> In this repo, Look for "Releases" 
-> click on the latest release , click on "Akrasia.exe" it must download
-> go to ur downloads folder on PC run exe 
-> !!!! might show u a "windows protected ur pc notification" (ignore it i aint gonna steal ur data i have other things to worry abt, its safe)!!!!
-> click more info >> then run any way...let it finish
+>> In this repo, Look for "Releases" 
+>> click on the latest release , click on "Akrasia.exe" it must download
+>> go to ur downloads folder on PC run exe 
+>> !!!! might show u a "windows protected ur pc notification" (ignore it i aint gonna steal ur data i have other things to worry abt, its safe)!!!!
+>> click more info >> then run any way...let it finish
 
 >> ur in
 
-> now on top right u see "select folder" ....click it and select a folder u have music on(i keep all my music in 1 folder so idk how to keep multiple folders as sourse)
-> wait till it finishes.....ur good to goo WOLAHH
+>> now on top right u see "select folder" ....click it and select a folder u have music on(i keep all my music in 1 folder so idk how to keep multiple folders as sourse)
+>> wait till it finishes.....ur good to goo WOLAHH
 >> theres a down arrow mark button in the left collections bar that is to import ur already made windows playlists 
 >> rest figure it out urself :)) (its easy and simple enough the way ive built it)
 
