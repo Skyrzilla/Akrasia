@@ -1,0 +1,25 @@
+{
+  "name": "aurora-music-player",
+  "version": "1.2.5",
+  "description": "A Windows desktop music player with classic glass visuals",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^38.2.0",
+    "electron-builder": "^26.0.12"
+  },
+  "dependencies": {
+    "music-metadata": "^11.9.0"
+  },
+  "build": {
+    "appId": "com.aurora.musicplayer",
+    "productName": "Akrasia",
+    "directories": { "output": "dist" },
+    "files": ["main.js", "preload.js", "index.html", "renderer.js", "styles.css", "assets/**/*", "node_modules/music-metadata/**/*", "package.json"],
+    "win": { "target": "nsis", "icon": "assets/akrasia.ico" },
+    "nsis": { "oneClick": false, "allowToChangeInstallationDirectory": true, "createDesktopShortcut": true, "createStartMenuShortcut": true }
+  }
+}
