@@ -36,10 +36,6 @@ I took inspiration from old home theater setups, 2000s tuner car trunk audio sys
 
 
 
-
-
-
-
 # As of what it can do
 
 You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
@@ -56,3 +52,7 @@ Of course, I expect there may be compatibility issues. This isn't exactly AAA so
 **Created by Rajat G.**
 
 *AKRASIA (read this word somewhere thought it sounded cool)*
+
+<img width="1770" height="1018" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/3e4e724d-fb5d-49ac-bccf-a3e131bcee3e" />
+
+
