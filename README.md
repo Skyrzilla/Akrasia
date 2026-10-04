@@ -10,12 +10,13 @@ AKRASIA is something I originally built for myself, and I intend to keep using i
 
 I took inspiration from old home theater setups, 2000s tuner car trunk audio systems, PSP Music player and the music player software that were on older versions of Windows. I wanted to bring a bit of that era's atmosphere into a modern music player without making it unnecessarily complicated.
 
-You can create playlists/ delete playlists, 3 visualizer modes and a speaker boom kinda visual mapped to highest freq in first 6 bands (each band in the bar visualizer is mapped to 35hz to 22.05khz covering widely most used range of music) shuffel is robust ,.....compared to other apps that play same song after 20 songs ....i want variety,  mass select songs to delet or add to playlist etc basic functions etc.
-u wont find gimiks like 20 diff personalized playlists, AI agents, equalizer playlist thumbnail change etc, i never used them honestly. 
+You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
 
-I haven't over-engineered it or tried to pack in every feature imaginable. I built what I wanted and what I personally use most of the time. It might not have everything you want in a music player, and honestly, I couldn't care less, lol. i might expect it to have compatability issues ofc it isnt exactly an AAA software prolly ull have to fix them yourself, It's my own little week end project, shared in case someone else enjoys the idea too.
+There's a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. The goal was to make listening feel less repetitive.You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
 
-If you like it, feel free to use it, experiment with it, or make your own version.
+I haven't over-engineered it or tried to pack in every feature imaginable. I built what I wanted and what I personally use most of the time. It might not have everything you want in a music player, and honestly, I couldn't care less, lol.
+
+Of course, I expect there may be compatibility issues. This isn't exactly AAA software, and you might have to troubleshoot or fix things yourself. It's just my own little weekend project, shared in case someone else enjoys the idea too.
 
 **Created by Rajat G.**
 
