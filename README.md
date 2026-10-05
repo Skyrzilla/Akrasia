@@ -30,7 +30,7 @@ So, I decided to create my own.
 
 AKRASIA is something I originally built for myself, and I intend to keep using it as my personal music player. But if you like the concept, you're are welcome to download it, use it, build on it, experiment with it, or do whatever you want with it.
 
-I took inspiration from old home theater setups, 2000s tuner car trunk audio systems, PSP Music player and the music player software that were on older versions of Windows. I wanted to bring a bit of that era's atmosphere into a modern music player without making it unnecessarily complicated.
+I took inspiration from old home theater setups, 2000s tuner car trunk audio systems, PSP Music player and the media players that were on older versions of Windows. I wanted to bring a bit of that era's atmosphere into a modern music player without making it unnecessarily complicated.
 
 <img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/01feda87-e9ce-48d5-8e44-473296e3fd1f" />
 
@@ -40,7 +40,8 @@ I took inspiration from old home theater setups, 2000s tuner car trunk audio sys
 
 You can create and delete playlists, switch between three visualizer modes, shuffle tracks, manage your queue, and mass-select songs to delete or add to playlists, along with the other basic music player functions.
 
-There's a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. The goal was to make listening feel less repetitive.You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
+The basic player and its functions took me a few hours. The most of my time went into perfecting finer details, Figuring out how each bar must sync to audio, different sampling and converting methods, how each freq band must be mapped to the visualizer to maximize visual appeal, what bell curve can i use to amplify high freqs in songs that dont use that range so the visualizer doesnt look stale etc., 
+a speaker-boom-style visual mapped to the highest frequencies in the first six bands (TL:DR Looks Dope). The bar visualizer spans approximately 35 Hz to 22.05 kHz, covering a broad range of music frequencies.I also put some thought into the shuffle system. I wanted more variety instead of having the same songs keep showing up after a short while. To make listening feel less repetitive. You won't find gimmicks like dozens of personalized playlists, AI agents, equalizers, or custom playlist thumbnails here. Honestly, I never used those features myself.
 <img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/7456243e-1c34-42b5-a81f-475573b2932d" />
 
 I haven't over-engineered it or tried to pack in every feature imaginable. I built what I wanted and what I personally use most of the time. It might not have everything you want in a music player, and honestly, I couldn't care less, lol.
