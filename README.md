@@ -5,7 +5,7 @@
 # To the point - How to Download...
 
 1. In this repo, Look for "Releases" 
-2. click on the latest release , click on "Akrasia.exe" it must download
+2. click on the latest release , click on "Akrasia setup 1.3.0.exe" it must download
 3. go to ur downloads folder on PC run exe 
 4. !!!! might show u a "windows protected ur pc notification" (protected ur pc from whom? im not much of an attacker myself, ignore it i aint gonna steal ur data, its safe)!!!!
 5. click more info >> then run any way >> then run the installer...let it finish
@@ -15,7 +15,8 @@
 6. now on top right u see "select folder" ....click it and select a folder u have music on(i keep all my music in 1 folder so idk how to keep multiple folders as sourse)
 7. wait till it finishes.....ur good to goo !!
 8. theres a down arrow mark button in the left collections bar that is to import ur already made windows playlists 
-9. rest figure it out urself :)) (its easy and simple enough the way ive built it)
+9. rest figure it out urself (its easy and simple enough the way ive built it)
+ !!! click f when in app !!!
 
 
 //////////////////////////////////////////////////////////////////////
